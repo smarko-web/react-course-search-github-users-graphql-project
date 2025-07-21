@@ -205,7 +205,7 @@ export default UserProfile;
 src/App.tsx
 
 ```tsx
-mport { useState } from 'react';
+import { useState } from 'react';
 import SearchForm from './components/form/SearchForm';
 import UserProfile from './components/user/UserProfile';
 
